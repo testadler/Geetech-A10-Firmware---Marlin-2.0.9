@@ -1,0 +1,23 @@
+-------------------- Auto-Git Log --------------------
+		Sat Jan 22 2022 14:22:15 GMT+0100 (Mitteleuropäische Normalzeit)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/autogit.json
+* .vscode/configurationCache.log
+* .vscode/dryrun.log
+* .vscode/targets.log
+* Firmware/HEX/A10_Marlin_209_BLTOUCH_UBL_TRAMMING.hex
+* buildroot/share/PlatformIO/scripts/__pycache__/pioutil.cpython-39.pyc
+* buildroot/share/PlatformIO/scripts/__pycache__/preprocessor.cpython-39.pyc
+* buildroot/share/PlatformIO/scripts/__pycache__/signature.cpython-39.pyc
+
+
+Deleted files:
+* Marlin/Marlin.ino.cpp
+
+
+Renamed files:
